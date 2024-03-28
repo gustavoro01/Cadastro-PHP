@@ -1,5 +1,20 @@
 <h1>Register-PHP</h1>
 
++ Login Screen
+  ![tela_login](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/b73ec313-f3ca-446c-b99d-702c17a61eb3)
+
++ Resgister Screen
+
+
++ Supplier Screen
+
+
++ Register Product Screen
+
+
++ Product's Screen
+
+
 >status: Finish 🆗
 
 ### It is a web application, planned by the teacher, and developed by me. 
