@@ -5,6 +5,7 @@
 
 + Resgister Screen
 
+![tela_cadastro](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/f2469704-68bc-4ae4-b8ae-8cd0e7f137b7)
 
 + Supplier Screen
 
