@@ -1,11 +1,11 @@
 <h1>Register-PHP</h1>
 
 + Login Screen
-  ![tela_login](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/b73ec313-f3ca-446c-b99d-702c17a61eb3)
+  ![tela_login](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/49963c31-71bb-4c5f-8d9c-edfc13bba877)
 
 + Resgister Screen
 
-![tela_cadastro](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/f2469704-68bc-4ae4-b8ae-8cd0e7f137b7)
+![tela_cadastro](https://github.com/gustavoro01/Cadastro-PHP/assets/162130517/118053ec-c067-4122-8646-4dcfa46593a7)
 
 + Supplier Screen
 
