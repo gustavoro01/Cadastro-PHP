@@ -1,6 +1,61 @@
-<!-- Professor Pelegrin da matéria de Programação para Internet, propôs um trabalho utilizando Bootstrap,CSS,HTML e JS, com cadastro, login, inserção de produtos no Bd e validação de dados inseridos pelo usuário, e esse foi o trabalho desenvolvido.
-OBS: Ainda tem que melhorar algumas coisas, mas já é um grande começo para entener as ferramentas de desenvolvimento.
-Aluno do 5º Período de S.I 
+<h1>Register-PHP</h1>
 
-**PRJECT
-O projeto conta com a criação do Bd (celke.sql) e criação de páginas PHP com SELECT's e INSET's-->
+>status: Finish 🆗
+
+### It is a web application, planned by the teacher, and developed by me. 
+
+##Some fields in main Model is: 
+
++ name
++ +id_product
++ id_supplier
++ price
++ supplier
++ image
+
+  Also that, has a User with this fields:
+
++ name
++ email
++ User
++ password
+
+##I implemmented others  features such as :
+
++ SELECT
++ INSERT
+
+##Technologies Used:
+<table>
+  <tr>
+    <td>
+      PHP7*
+    </td>  
+  </tr>
+   <tr>
+    <td>
+      Xampp*
+    </td>  
+  </tr>
+   <tr>
+    <td>
+      Bootstrap*
+    </td>  
+  </tr>
+   <tr>
+    <td>
+      VS Code*
+    </td>  
+  </tr>
+</table>
+
+##How to run the application:
+1) Install Xampp
+2) Install VS Code
+3) Start Apache (Xampp)
+4) Start MySql(Xampp, port:80)
+5) get repositore
+6) unzip repositore
+7) open VS Code
+8) Create Db
+9) Execute the Code ✅
