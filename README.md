@@ -30,7 +30,6 @@
 + id_supplier
 + price
 + supplier
-+ image
 
   Also that, has a User with this fields:
 
