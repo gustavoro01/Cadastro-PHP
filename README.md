@@ -26,7 +26,7 @@
 ##Some fields in main Model is: 
 
 + name
-+ +id_product
++ id_product
 + id_supplier
 + price
 + supplier
